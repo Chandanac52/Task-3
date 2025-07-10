@@ -5,7 +5,7 @@ This project demonstrates a complete ML workflow using the Iris dataset:
 - Model training (Logistic Regression)
 - Model deployment via Flask API
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 project-task3/
@@ -17,7 +17,7 @@ project-task3/
     └── app.py
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Train the Model**:
 ```bash
