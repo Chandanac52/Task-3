@@ -1,3 +1,16 @@
+Company : CODTECH IT SOLUTIONS
+
+Name : Reddy Akkamma Chandana
+
+Intern ID : CT06DG1234
+
+Domain : Data Science
+
+Duration : 6 Weeks
+
+Mentor : Neela Santosh
+
+
 # Task 3: Full Data Science Project with Flask API
 
 This project demonstrates a complete ML workflow using the Iris dataset:
